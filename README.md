@@ -22,7 +22,7 @@ The main goal of this book is to provide readers with a strong foundation in Pyt
 8 Inheritance\
 9 Files\
 10 Exception Handling\
-11 Graphical Interfaces \ 
+11 Graphical Interfaces  
  
 
 ## Prerequisite
