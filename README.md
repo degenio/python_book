@@ -14,15 +14,15 @@ The main goal of this book is to provide readers with a strong foundation in Pyt
 
 1 Introduction\
 2 Basic Syntax\
-3 Decision Structures
-4 Repetition Structures
-5 Functions
-6 Sequences and Collections
-7 Classes and Objects
-8 Inheritance
-9 Files
-10 Exception Handling
-11 Graphical Interfaces  
+3 Decision Structures\
+4 Repetition Structures\
+5 Functions\
+6 Sequences and Collections\
+7 Classes and Objects\
+8 Inheritance\
+9 Files\
+10 Exception Handling\
+11 Graphical Interfaces \ 
  
 
 ## Prerequisite
