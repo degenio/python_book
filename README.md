@@ -12,8 +12,8 @@ The main goal of this book is to provide readers with a strong foundation in Pyt
 
 ## Book Contents
 
-1 Introduction
-2 Basic Syntax
+1 Introduction\
+2 Basic Syntax\
 3 Decision Structures
 4 Repetition Structures
 5 Functions
