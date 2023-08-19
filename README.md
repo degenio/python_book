@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains the source code and programming examples for the book "Python through Practice." The book is intended for programming beginners who wish to learn Python or for those who want to enhance their existing skills.
+This repository contains the source code and programming examples for the book "Python for beginners." The book is intended for programming beginners who wish to learn Python or for those who want to enhance their existing skills.
 
 The book covers the fundamental concepts of programming in Python, starting with basics such as variables, data types, loops, and conditions. It then delves into more advanced topics like functions, classes, and exceptions.
 
